@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
 
-/* Variables */
 
+/* Variables */
 
 
 :root {
@@ -16,6 +16,40 @@
 
 }
 
+.mid2 {
+    margin-top: 100px;
+    padding-left:60px;
+    padding-right:200px;
+}
+
+.mid2 t {
+    font-family: degular, sans-serif;
+    font-style: regular;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.mid2 d {
+  font-family: degular, sans-serif;
+  font-style: regular;
+  font-weight: 400;
+  font-size: 20px;
+  padding-left: 80px;
+}
+
+.mid2 l {
+  font-family: degular, sans-serif;
+  font-style: regular;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+.mid2 r {
+  font-family: degular, sans-serif;
+  font-style: regular;
+  font-weight: 400;
+  font-size: 15px;
+}
 
 .nav-item {
     position: relative; /* set the position of the nav item to relative */
